@@ -1,0 +1,43 @@
+/*  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}  */
+
+form{
+    margin: 2rem;
+}
+
+/* body{
+    background-color: grey;
+} */
+
+fieldset{
+ /*    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem; */
+   /*  margin: 5rem 5rem 5rem 5rem; */
+    margin: 3rem;
+}
+
+#pad{
+    padding: 5rem 3rem 4rem 10rem;
+    background-color: hsla(195, 56%, 40%, 0.593);
+    color: hwb(208 5% 29%);
+}
+
+/* 
+p{
+    color: brown;
+  /*   padding: 2rem;
+} */
+
+.blue{
+    color: blue;
+}
+
+#green{
+    color: green;
+    
+}
